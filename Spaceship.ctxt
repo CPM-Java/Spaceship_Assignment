@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ soundAlarm()
+comment0.text=\n\ There\ is\ a\ red\ alert\!\n\ \n\ @return\ claxon\ \ a\ String\ that\ shows\ the\ alarm\ sounding.\ \n
+comment1.params=
+comment1.target=java.lang.String\ standDown()
+comment1.text=\n\ The\ danger\ has\ passed.\ Cancel\ all\ red\ alerts\!\n\ \n\ @return\ myNumRedAlerts\ \ a\ String\ that\ confirms\ there\ are\ no\ more\ red\ alerts.\ \n
+comment2.params=
+comment2.target=java.lang.String\ resupply()
+comment2.text=\n\ Zoom\ back\ to\ Earth.\ Buy\ more\ torpedos.\n\ \n\ @return\ myNumRedAlerts\ \ a\ String\ that\ confirms\ there\ are\ no\ more\ red\ alerts.\ \n
+numComments=3
